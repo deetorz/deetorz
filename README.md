@@ -2,7 +2,7 @@
 
 My name is Derek and I'm a Full Stack Web Developer.
 
-Origninally from Florida, I am currently living Japan.
+Origninally from Florida, I am currently living in Japan.
 
 I like to try bringing logic and creativity together through code to build some pretty cool programs and applications.
 
