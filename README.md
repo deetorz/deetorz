@@ -1,4 +1,4 @@
-### Well hey there 🤙
+### Hey there 🤙
 
 My name is Derek and I'm a Full Stack Web Developer.
 
