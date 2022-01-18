@@ -29,7 +29,7 @@ Studying Japanese or Spanish 📚
 
 <br/>
 
-### Feel free to reach out to me on LinkedIn:
+### Feel free to reach out to me <a src="https://linkedin.com/in/derek-n-torres">on LinkedIn></a> :
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 
