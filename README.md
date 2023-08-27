@@ -1,6 +1,6 @@
 ### Hey there 🤙
 
-My name is Derek and I'm a Full Stack Web Developer.
+My name is Derek.
 
 Origninally from Florida, I am currently living in Japan.
 
