@@ -11,7 +11,5 @@ Running 🏃🏼‍♂️
 Games 🎮
 Practicing drums 🥁 or guitar 🎸
 Studying Japanese or Spanish 📚
-
 <br/>
-
 ### Feel free to reach out to me on <a  target="_blank" href="https://linkedin.com/in/derek-n-torres">LinkedIn</a>.
